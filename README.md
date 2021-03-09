@@ -21,8 +21,6 @@
                                 pkg upgrade -y
                                 
                                 pkg install python
-
-                                pkg install python-pip
                                 
                                 pkg install git
                                 
