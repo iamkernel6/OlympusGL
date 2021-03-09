@@ -9,6 +9,7 @@
 * Setelah mengisinkan akses penyimpanan ikuti cara menginstall script di bawah ini :
 - Buka Termux 
 - Tuliskan command di bawah ini :
+                                
                                 pkg install root-repo
                                 
                                 pkg install unstable-repo
