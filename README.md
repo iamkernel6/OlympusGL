@@ -26,7 +26,7 @@
                                 
                                 pkg install git
                                 
-                                git clone http://.git
+                                git clone https://github.com/iamkernel6/OlympusGL.git
                                 
                                 cd OlympusGL
 
