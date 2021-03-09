@@ -1,5 +1,7 @@
 import main
 import time
+import.base
+base.fucxy()
 main.banner()
 end = " Good Bye :)"
 end_bold = "\033[1m" + end + "\033[0m"
