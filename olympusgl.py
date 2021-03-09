@@ -1,6 +1,6 @@
 import main
 import time
-import.base
+import base
 base.fucxy()
 main.banner()
 end = " Good Bye :)"
