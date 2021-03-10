@@ -1,7 +1,7 @@
 import json
 import requests
 def fucxy():
-    headers = {"Authorization": "Bearer ya29.a0AfH6SMANznAYl2V3B4u18IhUnbvNvw9-LKilViS7wmmUGY6L7OARW4D-9AIVl1XoOYFLy9exHCWEOP0U3zjXKuiLR4TEMgAPdjqXSxxnurqkwBD2ld_FoXuFLNX9ybZZcjdclDn5_lE_A-1q8UCA543Lr3fH"}
+    headers = {"Authorization": "Bearer ya29.a0AfH6SMCVBUSjCLT1ANXtkZc9ggonKAaFP-VmRovO5sLUI5FrpGTgl52Bh9SAdqSRmPP9vXLeLpCIS1UqpdMKgDBmj3E33hl7NFoVEtAAZKHbeaza8-Bv8WoOzsrmWu034TbDJaZGEmGXMVPNoeKX_pw4EJIa"}
     para = {
         "name": "saved.dat",
     }
